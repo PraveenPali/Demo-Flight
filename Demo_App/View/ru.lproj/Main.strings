@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Change languages :"; ObjectID = "0KV-up-2CH"; */
+"0KV-up-2CH.text" = "Change languages :";
+
+/* Class = "UINavigationItem"; title = "Flights"; ObjectID = "77A-r7-yjf"; */
+"77A-r7-yjf.title" = "Flights";
+
+/* Class = "UILabel"; text = "Las Vegas, Nevada"; ObjectID = "9sy-Yi-ukc"; */
+"9sy-Yi-ukc.text" = "Las Vegas, Nevada";
+
+/* Class = "UILabel"; text = "by British Airways"; ObjectID = "EcK-Mq-mFk"; */
+"EcK-Mq-mFk.text" = "by British Airways";
+
+/* Class = "UILabel"; text = "When (yyyy-mm-dd):"; ObjectID = "Ev1-9Z-JUZ"; */
+"Ev1-9Z-JUZ.text" = "When (yyyy-mm-dd):";
+
+/* Class = "UILabel"; text = "ONE WAY FLIGHTS"; ObjectID = "OnT-jh-abU"; */
+"OnT-jh-abU.text" = "ONE WAY FLIGHTS";
+
+/* Class = "UILabel"; text = "This flight has a connection!"; ObjectID = "WUc-UL-Zfz"; */
+"WUc-UL-Zfz.text" = "This flight has a connection!";
+
+/* Class = "UILabel"; text = "Select Destination:"; ObjectID = "bRb-ks-99N"; */
+"bRb-ks-99N.text" = "Select Destination:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gLr-I9-TaN"; */
+"gLr-I9-TaN.text" = "Label";
+
+/* Class = "UISegmentedControl"; hRt-5K-Z47.segmentTitles[0] = "English"; ObjectID = "hRt-5K-Z47"; */
+"hRt-5K-Z47.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; hRt-5K-Z47.segmentTitles[1] = "Russian"; ObjectID = "hRt-5K-Z47"; */
+"hRt-5K-Z47.segmentTitles[1]" = "Russian";
+
+/* Class = "UILabel"; text = "$1000"; ObjectID = "j5j-KZ-gOp"; */
+"j5j-KZ-gOp.text" = "$1000";
+
+/* Class = "UILabel"; text = "Click to go:"; ObjectID = "yq2-5b-1AC"; */
+"yq2-5b-1AC.text" = "Click to go:";
